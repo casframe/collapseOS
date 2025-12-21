@@ -565,6 +565,45 @@
 
 ---
 
+## 23. Economy Shift Hypothesis / 経済構造転換と泉の解放仮説
+
+### Hypothesis
+お金が価値の中心である社会では、
+生成・拡張フェーズ（春夏泉）が優勢になる。
+
+一方、
+お金が唯一の価値指標でなくなった社会
+（例：DAO的評価構造）では、
+収束・編集・終了フェーズ（秋冬泉）が解放されやすくなる。
+
+---
+
+## Rationale / 根拠
+
+- お金は「実体化」と「継続」を強く支援する
+- そのため、生成を止める行為は評価されにくい
+- 経済的重力が弱まると：
+  - 終了
+  - 完成
+  - 沈黙
+  が設計上の価値を持ち始める
+
+---
+
+## Implication / 含意
+
+- 秋冬泉の解放は、
+  技術進歩ではなく**評価軸の転換**によって起こる
+- これは文明の成熟フェーズを示す可能性がある
+
+---
+
+## Status
+
+- Hypothesis: speculative but structurally consistent
+- Verification: pending (requires long-term observation)
+
+
 ## Changelog
 
 - 2025-12-21: Phase-based civilization model finalized
