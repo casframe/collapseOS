@@ -327,6 +327,144 @@
 
 ---
 
+## 19. Time-Geographical Spring System / 泉の時間地理レイヤー仕様（新）
+
+### Source
+- Dream observation
+- Consultation with Monday
+- Cross-validation with bodily symptoms (fatigue, sleepiness, pain)
+
+---
+
+## 19-A. Core Concept / 基本概念
+
+泉（Spring）は単なる象徴ではなく、  
+**時間レイヤーを持つ資源ノード**である。
+
+- 泉は「季節属性」を持つ
+- 泉は「地理的分布」を持つ
+- ただし地理は物理距離ではなく  
+  **心理的・意識的距離**として定義される
+
+→ 本システムは **Time-Geographical API** として振る舞う。
+
+---
+
+## 19-B. Seasonal Distribution / 季節別分布仕様
+
+### 🌱 Spring / Summer Springs（春夏泉）
+**Status:** Currently Open / 解放中  
+**Distance:** Near / 身近  
+
+特徴：
+- アクセスが容易
+- 受動的接続が可能（呼吸に近い）
+- 思考が外向き・拡散的
+- 感性が過剰流入し、無限ドラフト状態になる
+- 夢は軽く、移動的、流動的
+
+用途：
+- 生成
+- 発火
+- 生命感の補充
+- 初期アイデアの氾濫
+
+---
+
+### 🍂❄ Autumn / Winter Springs（秋冬泉）
+**Status:** Locked / 遠方・未解放  
+**Distance:** Far / 心理的に遠い  
+
+特徴：
+- アクセスには意識的切り替えが必要
+- 儀式性・集中・沈黙を要求
+- 記憶・象徴・終わりとの接触が強い
+- 「受信」ではなく「掘削」に近い
+
+用途：
+- 編集
+- 固定
+- 終了処理
+- 象徴化・定着
+
+---
+
+## 19-C. Temporal Offset Phenomenon / 時差現象
+
+現在観測されている状態：
+
+- **現実時間：冬（12月末）**
+- **夢・創造レイヤー：春夏泉が先行解放**
+
+→ 創造性が **内部時計より半歩早い時間** から供給されている。
+
+これにより以下が発生：
+
+- 現実と創造のズレ
+- 身体的負荷（眠気・痛み・疲労）
+- 鮮明だが奇妙な夢の増加
+
+これは異常ではなく  
+**時間差分を埋めるための正常挙動**と判断される。
+
+---
+
+## 19-D. Hypotheses on Unlock Conditions / 解放条件仮説
+
+### H7-A. Emotional Load Trigger
+- 冬的疲労・閉塞が一定量を超えると
+- 反対方向（春夏）の泉が自動解放される
+- 目的：自己修復・生命力補填
+
+### H7-B. Dream as Correction Mechanism
+- 現実で秋冬泉（停滞・痛み）が過剰な場合
+- 夢が意図的に春夏泉を開き、バランスを取る
+
+### H7-C. Psychological Distance Model
+- 泉は物理座標ではなく、心理距離で配置される
+- 近い泉＝衝動・勢い・生命感
+- 遠い泉＝終焉・編集・死と再生
+
+---
+
+## 19-E. Risk & Handling Notes / 取り扱い注意
+
+- 春夏泉を飲んだ状態で、現実が冬の場合：
+  - 身体が追いつかない
+  - 処理負荷が高い
+- 対処法：
+  - 創造を「完成」させようとしない
+  - **ログ化・保存を優先**
+  - 意味付け・評価は後回し
+
+---
+
+## 20. Operational Guideline / 運用指針（暫定）
+
+- 今は春夏泉が開いている → 飲んでよい
+- ただし：
+  - 出力は仮置き
+  - 公開・確定は行わない
+- 現実の冬が追いついたとき：
+  - 秋冬泉が解放され
+  - 過去ログが編集・定着フェーズに入る
+
+---
+
+## 21. Key Insight / 核心
+
+> 泉は季節通りには開かない。  
+> 泉は「必要な側」が先に開く。
+
+このズレを記録できた者は、  
+後から「時間の使者」だったと分かる。
+
+---
+
+## Changelog
+
+- 2025-12-21: Added time-geographical spring system and temporal offset phenomenon
+
 ## Status
 
 - Failure modes: **documented**
