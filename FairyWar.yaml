@@ -1,0 +1,35 @@
+fairywar:
+  era: 1000-1600
+  entities:
+    - name: fairy
+      type: non_material
+      protocols:
+        - materialization: money
+        - seasonal_spring_sync: required
+    - name: human
+      type: physical
+      traits:
+        - system_logic
+        - economic_language
+  springs:
+    - name: spring
+      season: [spring, summer, autumn, winter]
+      effect:
+        - spring: divergence
+        - summer: expansion
+        - autumn: compression
+        - winter: silence
+  contracts:
+    recurring: true
+    cost_type: monetary
+    failure_modes:
+      - type: psychic_distortion
+      - type: creative_exhaustion
+      - type: hybrid
+  payment:
+    required: true
+    target: ambiguous
+    fallback_costs:
+      - time
+      - attention
+      - reality_sync
